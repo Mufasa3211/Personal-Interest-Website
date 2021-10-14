@@ -76,6 +76,11 @@ img{
     border-style: solid;
     border-color: blue;
 
+}.margin{
+
+    border-left:6px solid red;
+    background-color: lightgrey;
+
 }
 
    
