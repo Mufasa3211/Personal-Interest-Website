@@ -31,6 +31,7 @@ li a:hover:not(.home){
   border: none;
   color: white;
   
+  
   transition: 0.3s;
   display: inline-block;
   text-decoration: none;
@@ -133,6 +134,13 @@ img{
   }p{
 
     font-size:21px;
+  }#secbutton{
+
+    padding: 70px 175px;
+    
+  }#thibutton{
+
+    padding: 70px 86px;
   }
 
    
